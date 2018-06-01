@@ -1,0 +1,28 @@
+.logo {
+  width: 155px;
+  display: flex;
+  justify-content:center;
+}
+.menu__items {
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+}
+.enlaces {
+  color: 4a4a4a;
+  text-decoration: none;
+  text-transform: uppercase;
+  style: none;
+}
+.titulo {
+  width: 30px
+  background-color:#FFFFFFF;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-content: space-around;
+}
+.main{
+  top: auto;
+  background-color: red;
+}
